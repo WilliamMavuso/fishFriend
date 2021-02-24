@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6A16622B-B447-4A61-9293-D1853C8800E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.fishFriend.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.fishFriend.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_30" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fishFriend" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fishFriend FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
